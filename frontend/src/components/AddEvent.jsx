@@ -22,7 +22,7 @@ function AddEvent({ isOpen, onClose, onEventAdded }){
     const handleSubmit=async(e)=>{
         e.preventDefault();
         try {
-            await axios.post(`http://localhost:5000/api/event`,formData)
+            await axios.post(`https://fusioncode-software-solutions.onrender.com/api/event`,formData)
             onEventAdded();
             onClose()
         } catch (error) {
