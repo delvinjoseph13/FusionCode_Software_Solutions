@@ -25,7 +25,7 @@ Tech Stack
 ## 🛠 Setup Instructions
 
 ### 1. Clone the Repository
-[https://github.com/delvinjoseph13/4x4-Advisory-Services-Private-Limited__assignment
+[https://github.com/delvinjoseph13/FusionCode_Software_Solutions
 ](https://github.com/delvinjoseph13/FusionCode_Software_Solutions)
 ### 2. cd backend
 
@@ -56,6 +56,6 @@ npm install
 npm run dev
 
 
-Web Host Link : - [https://4x4-advisory-services-private-limit-virid.vercel.app/](https://fusion-code-software-solutions.vercel.app/)
-2)- [https://4x4-advisory-services-private-lim-git-5b930d-playrooms-projects.vercel.app](https://fusion-code-software-solutions-playrooms-projects.vercel.app/)
-3)- [https://4x4-advisory-services-private-limited-assignment-cr6-k84eopfvf.vercel.app](https://fusion-code-software-solutions-git-main-playrooms-projects.vercel.app/)
+Web Host Link : - [https://fusion-code-software-solutions.vercel.app/](https://fusion-code-software-solutions.vercel.app/)
+2)- [https://fusion-code-software-solutions-playrooms-projects.vercel.app/](https://fusion-code-software-solutions-playrooms-projects.vercel.app/)
+3)- [https://fusion-code-software-solutions-git-main-playrooms-projects.vercel.app/](https://fusion-code-software-solutions-git-main-playrooms-projects.vercel.app/)
